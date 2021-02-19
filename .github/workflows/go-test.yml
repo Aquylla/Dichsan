@@ -1,0 +1,11 @@
+# File managed by web3-bot. DO NOT EDIT.
+# See https://github.com/protocol/.github/ for details.
+
+on: [push, pull_request]
+name: Go Test
+
+jobs:
+  unit:
+    strategy:
+      fail-fast: false
+      matrix
