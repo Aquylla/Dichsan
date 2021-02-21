@@ -13,4 +13,21 @@ Note: This is WIP and may not be an entirely correct parser.
 
 ## Table of Contents
 
-- [Install]
+- [Install](#install)
+- [Usage](#usage)
+- [API](#api)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Install
+
+```sh
+go get github.com/ipfs/go-ipld-btc
+```
+
+## Contribute
+
+PRs are welcome!
+
+Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
